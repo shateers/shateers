@@ -1,63 +1,55 @@
-👋 Hi, I’m Shateer
+# 👋 Hi, I’m Shateer
 
-🚀 Writer | Travel Consultant | Web Creator | YouTuber
+🚀 **Writer | Travel Consultant | Web Creator | YouTuber**
 I love building websites, writing stories/books, and creating tools that help people travel smarter, stay informed, and spark ideas.
 
-🌍 My Projects & Websites
+---
 
-✈️ Global Routes
- – Travel agency website
+## 🌍 My Projects & Websites
 
-💸 Budget Travels
- – Travel affiliate booking platform
+* ✈️ [Global Routes](https://www.globalroutes.in) – Travel agency website
+* 💸 [Budget Travels](https://www.budgetravels.com) – Travel affiliate booking platform
+* 🪑 **Ideas Chair** – Brand for ergonomic toilets, bidets & bathroom comfort products
+* 📚 **Books**: *70% Religious*, *The Ultimate Guide to Common Prompts*, and *The Rainfall Diaries*
+* 🎥 YouTube: *Travel Tech by Shateer* – Amadeus GDS tutorials & travel tech
 
-🪑 Ideas Chair – Brand for ergonomic toilets, bidets & bathroom comfort products
+---
 
-📚 Books: 70% Religious, The Ultimate Guide to Common Prompts, and The Rainfall Diaries
+## 🛠️ Other Creations
 
-🎥 YouTube: Travel Tech by Shateer – Amadeus GDS tutorials & travel tech
+* 🔗 [qrcodemyurl.com](https://qrcodemyurl.com) – Free QR code generator (for files, images, PDFs, payments, vCards)
+* 🚫 [ponzischeme.online](https://ponzischeme.online) – Anti-ponzi scheme awareness platform
+* 🌐 [shateer.in](https://shateer.in) – Personal website
+* 🌐 [shateer.bio](https://shateer.bio) – Profile & links hub
 
-🛠️ Other Creations
+---
 
-🔗 qrcodemyurl.com
- – Free QR code generator (for files, images, PDFs, payments, vCards)
+## 🛠️ Tech & Tools I Use
 
-🚫 ponzischeme.online
- – Anti-ponzi scheme awareness platform
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=canva\&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%236633CC.svg?style=for-the-badge\&logo=hostinger\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-🌐 shateer.in
- – Personal website
+---
 
-🌐 shateer.bio
- – Profile & links hub
+## 📊 GitHub Stats
 
-🛠️ Tech & Tools I Use
+![Shateer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shateers\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shateers\&layout=compact\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=shateers\&theme=radical)
 
+---
 
+## 🌐 Let’s Connect
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/shahshateer/)
+[![X (Twitter)](https://img.shields.io/badge/Twitter%20\(X\)-%23000000.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/shahshateer)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shateers@gmail.com)
+[![Website](https://img.shields.io/badge/Website-%230000FF.svg?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://shateer.in)
+[![Link Hub](https://img.shields.io/badge/shateer.bio-%23117AC9.svg?style=for-the-badge\&logo=about-dot-me\&logoColor=white)](https://shateer.bio)
 
+---
 
-
-
-
-
-
-📊 GitHub Stats
-
-
-
-
-
-
-🌐 Let’s Connect
-
-
-
-
-
-
-
-
-
-
-✨ Thanks for checking out my profile. Feel free to explore my repos and projects — collaboration and feedback are always welcome!
+✨ *Thanks for checking out my profile. Feel free to explore my repos and projects — collaboration and feedback are always welcome!*
