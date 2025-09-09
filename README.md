@@ -4,7 +4,37 @@
 I love building websites, writing stories/books, and creating tools that help people travel smarter, stay informed, and spark ideas.
 
 ---
+Nice 🔥 thanks for sharing your repos screenshot!
+Let’s update your GitHub **README** to also showcase your actual projects with quick descriptions and links.
 
+Here’s how it could look:
+
+---
+
+## 📌 Featured Repositories
+
+* 🎮 [**doodlejump**](https://github.com/shateers/doodlejump)
+  A fun clone of the classic *Doodle Jump* game built for learning and experimenting with game development.
+
+* 🚫 [**ponzischeme.online**](https://github.com/shateers/ponzischeme.online)
+  Awareness site to expose shady schemes and help people avoid Ponzi traps.
+
+* 🔗 [**qr-clone-master**](https://github.com/shateers/qr-clone-master)
+  A QR code generator tool – foundation for [qrcodemyurl.com](https://qrcodemyurl.com).
+
+* 🚫 [**ponzischemes2**](https://github.com/shateers/ponzischemes2)
+  Extended version of anti-Ponzi scheme awareness project.
+
+* 🕹️ [**minimal\_gaming\_website**](https://github.com/shateers/minimal_gaming_website)
+  A simple, modern gaming website layout exploring clean design principles.
+
+* ✍️ [**writing-tracker**](https://github.com/shateers/writing-tracker)
+  A tool to track writing progress for stories, blogs, and books.
+
+* 🪪 [**shateers**](https://github.com/shateers/shateers)
+  My main GitHub profile repository (you’re here right now 😃).
+
+---
 ## 🌍 My Projects & Websites
 
 * ✈️ [Global Routes](https://www.globalroutes.in) – Travel agency website
